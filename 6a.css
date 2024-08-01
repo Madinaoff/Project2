@@ -1,0 +1,14 @@
+.block {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border: 1px solid black;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.text {
+    font-weight: bold;
+    margin: 5px;
+}

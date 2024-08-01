@@ -1,0 +1,24 @@
+.container {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: aqua;
+    display: flex;
+    position: relative;
+}
+.box {
+    width: 90px;
+    height: 60px;
+    background-color: red;
+    position: absolute;
+    left: 100px;
+    top: 10px;
+}
+.text {
+    display: flex;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    left: 10px;
+    top: 25px;
+}
